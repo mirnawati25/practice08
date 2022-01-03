@@ -4,6 +4,7 @@
 ![nim](https://img.shields.io/badge/nim-312110544-blue.svg)
 ![kelas](https://img.shields.io/badge/nim-TI.21.C5-red.svg)
 
+
 ## **DESKRIPSI**
 
 1. dekralarasi _dataMahasasiwa_ sebagai object untuk menerima inputan data.
